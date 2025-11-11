@@ -7,18 +7,14 @@
 
 
 # Mylaps Orbits Control Keypad
-Tested on Mylaps v5.10.13
-
+Tested on Mylaps v5.10.13  
 No known bugs
 
 ![Complete](/images/Complete.png)
 
-Pin 1 = F5      (Green)
-
-Pin 2 = F9      (Yellow - NC)
-
-Pin 3 = F8      (Checker)
-
+Pin 1 = F5      (Green)  
+Pin 2 = F9      (Yellow - NC)  
+Pin 3 = F8      (Checker)  
 Pin 4 = F10     (Manual Passing)
 
 Connect one side of switch to ESP pin and the other to GND. ESP has built-in pullup resistors.
@@ -29,8 +25,7 @@ Connect one side of switch to ESP pin and the other to GND. ESP has built-in pul
 
 CAD models are included in this repo in STEP format so that you can edit to suit your needs.
 
-My chosen components:
-
-uC: Seeed Xiao ESP32-S3 
+My chosen components:  
+uC: Seeed Xiao ESP32-S3   
 Switches: Cherry MX Blue Keyboard Switches
 
